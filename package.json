@@ -1,0 +1,23 @@
+{
+  "name": "mortgage-rate-calc",
+  "version": "1.0.0",
+  "description": "project for guild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian-mosesso/mortgage-rate-calc.git"
+  },
+  "author": "brian mosesso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brian-mosesso/mortgage-rate-calc/issues"
+  },
+  "homepage": "https://github.com/brian-mosesso/mortgage-rate-calc#readme",
+  "devDependencies": {
+    "cypress": "^12.11.0",
+    "typescript": "^5.0.4"
+  }
+}

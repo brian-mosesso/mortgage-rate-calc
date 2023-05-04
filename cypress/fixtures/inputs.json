@@ -1,0 +1,9 @@
+{
+  "newRate": "3.0",
+  "homePrice": "250,000",
+  "downPayment": "50,000",
+  "invalidString": "three",
+  "maxValue": "101",
+  "minValue": "-3",
+  "specialChar": "#5"
+}
